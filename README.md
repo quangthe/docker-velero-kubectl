@@ -8,7 +8,7 @@ Convenient Docker image to operate Velero disater recovery on K8S
 
 ## Supported tags
 
-- [1.9.4](https://github.com/quangthe/docker-velero-kubectl/releases/tag/1.9.4) - kubectl v1.25.3, , aws-iam-authenticator 0.5.12, aws-cli 1.22.81, alpine 3.16
+- [1.9.4](https://github.com/quangthe/docker-velero-kubectl/releases/tag/1.9.4) - kubectl v1.25.3, , aws-iam-authenticator 0.5.12, aws-cli 1.25.97, alpine 3.16
 
 ## Build
 
