@@ -8,6 +8,7 @@ Convenient Docker image to operate Velero disater recovery on K8S
 
 ## Supported tags
 
+- [1.9.5](https://github.com/quangthe/docker-velero-kubectl/releases/tag/1.9.5) - velero 1.9.5, kubectl v1.25.3
 - [1.9.4](https://github.com/quangthe/docker-velero-kubectl/releases/tag/1.9.4) - velero 1.9.4, kubectl v1.25.3
 ## Build
 
